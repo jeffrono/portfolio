@@ -6,7 +6,8 @@ body{
 	font-size:18px;
 	color:#3a3c4a;
 	font-weight:300;
-	overflow-x:hidden;
+	overflow-x: auto;
+    overflow-y: auto;
 }
 
 h1,
